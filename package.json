@@ -1,0 +1,24 @@
+{
+  "name": "enchant-client",
+  "version": "0.0.0",
+  "description": "Client for Enchant.com REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/learntracker/enchant-client.git"
+  },
+  "keywords": [
+    "enchant",
+    "api",
+    "client"
+  ],
+  "author": "Weston Renoud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learntracker/enchant-client/issues"
+  },
+  "homepage": "https://github.com/learntracker/enchant-client"
+}
