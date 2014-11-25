@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/learntracker/enchant-client/issues"
   },
-  "homepage": "https://github.com/learntracker/enchant-client"
+  "homepage": "https://github.com/learntracker/enchant-client",
+  "dependencies": {
+    "request": "^2.48.0"
+  },
+  "devDependencies": {
+    "request-debug": "^0.1.1"
+  }
 }
